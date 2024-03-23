@@ -9,9 +9,6 @@ A simple music player application built with Flutter. This application allows us
 - Playlist management: Users can create playlists and add songs to them for customized listening experiences.
 - User-friendly interface: Clean and intuitive UI design for a seamless user experience.
 
-## Screenshots
-
-[Include screenshots or GIFs of your application here]
 
 ## Getting Started
 
@@ -33,6 +30,3 @@ To run this application locally, follow these steps:
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
